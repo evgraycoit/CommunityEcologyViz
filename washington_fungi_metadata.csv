@@ -1,287 +1,287 @@
-"","Longitude","Latitude","Elevation","Biome","Biome.Detail","Sample.Type","Location","Year.of.Sampling","Month.of.Sampling","pH","Dominant.Plants"
-"GF01012720S",-117.086,46.7792,791,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012721S",-117.083,46.7815,790,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03007985S",-118.48,47.8407,735,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2015,"November",6.8,"Triticum aestivum"
-"GF03007986S",-118.502,47.9046,506,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2016,"March",6.5,"Triticum aestivum"
-"GF01012722S",-117.086,46.779,789,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012723S",-117.083,46.7822,797,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012724S",-117.085,46.7804,785,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012725S",-117.084,46.7807,783,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012726S",-117.084,46.7807,783,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012727S",-117.086,46.779,789,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012728S",-117.085,46.7804,785,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012797S",-117.083,46.7822,797,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03007987S",-119.522,47.8355,698,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2015,"November",6.6,"Triticum aestivum"
-"GF03004641S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","rhizosphere soil","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012729S",-117.085,46.7796,792,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum"
-"GF01012731S",-117.084,46.7807,783,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012732S",-117.082,46.7831,793,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012733S",-117.086,46.779,789,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012734S",-117.083,46.7822,797,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012735S",-117.082,46.7831,793,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012736S",-117.085,46.7796,792,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum"
-"GF03004645S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012737S",-117.085,46.7796,792,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum"
-"GF01012738S",-117.082,46.7831,793,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012739S",-117.086,46.7792,791,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012740S",-117.083,46.7815,790,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012747S",-117.086,46.779,789,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03007989S",-119.763,48.0034,867,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2016,"March",6.5,"Triticum aestivum"
-"GF01012756S",-117.084,46.7807,783,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012504S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF03007990S",-119.757,47.9514,791,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2015,"November",6.6,"Brassica napus"
-"GF03004649S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","rhizosphere soil","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012743S",-117.086,46.779,789,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012748S",-117.084,46.7807,783,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012749S",-117.086,46.779,789,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012755S",-117.083,46.7822,797,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012753S",-117.086,46.7792,791,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012752S",-117.086,46.7792,791,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012751S",-117.086,46.7792,791,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012744S",-117.083,46.7822,797,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012750S",-117.085,46.7804,785,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012754S",-117.082,46.7831,793,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012730S",-117.086,46.779,789,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012757S",-117.083,46.7822,797,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012758S",-117.085,46.7804,785,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03007991S",-118.406,46.9102,528,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2015,"November",7.2,"Triticum aestivum"
-"GF03008012S",-118.502,47.9046,506,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2016,"March",6.5,"Triticum aestivum"
-"GF03008002S",-118.48,47.8373,746,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2015,"November",6.6,"Brassica napus"
-"GF01012760S",-117.082,46.7831,793,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012779S",-117.086,46.7792,791,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03007988S",-118.499,47.9082,519,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2015,"November",6.6,"Brassica napus"
-"GF01012761S",-117.083,46.7815,790,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF05021491S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF03004640S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","rhizosphere soil","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012780S",-117.083,46.7815,790,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012762S",-117.085,46.7796,792,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum"
-"GF01012741S",-117.083,46.7822,797,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012763S",-117.084,46.7807,783,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03007992S",-119.755,47.958,800,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2015,"November",6.5,"Triticum aestivum"
-"GF01012505S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF01012742S",-117.086,46.779,789,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012765S",-117.083,46.7822,797,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012506S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF01012766S",-117.084,46.7807,783,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03004667S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","rhizosphere soil","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012767S",-117.086,46.7792,791,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012791S",-117.085,46.7796,792,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum"
-"GF01012768S",-117.086,46.7792,791,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012770S",-117.083,46.7815,790,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012771S",-117.084,46.7807,783,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03007994S",-119.763,48.0013,861,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2016,"March",6.4,"Brassica napus"
-"GF01012773S",-117.082,46.7831,793,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012772S",-117.082,46.7831,793,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012515S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2013,"NA_",6,"Triticum aestivum"
-"GF01012811S",-117.085,46.7804,785,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012774S",-117.085,46.7796,792,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum"
-"GF05001343V",-122.11,47.53,359,"forest"," temperate coniferous forest biome","soil","USA,WA,Cougar Mt. Park",2014,"October",5.2,"NA_"
-"GF03004687S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","root","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF03004689S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","root","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012775S",-117.083,46.7822,797,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012776S",-117.085,46.7804,785,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03007995S",-119.763,48.0034,867,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2015,"November",6.5,"Triticum aestivum"
-"GF01012777S",-117.086,46.7792,791,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012769S",-117.086,46.7792,791,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03007996S",-118.406,46.9102,528,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2016,"March",7.2,"Brassica napus"
-"GF03004698S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012778S",-117.083,46.7815,790,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012745S",-117.086,46.779,789,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012781S",-117.084,46.7807,783,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012746S",-117.084,46.7807,783,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012782S",-117.086,46.7792,791,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03007998S",-119.522,47.8394,693,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2015,"November",6.7,"Brassica napus"
-"GF03007999S",-118.502,47.9046,506,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2015,"November",6.5,"Triticum aestivum"
-"GF01012764S",-117.082,46.7831,793,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012783S",-117.085,46.7796,792,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum"
-"GF03004663S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","soil","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012784S",-117.085,46.7804,785,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03008018S",-119.522,47.8394,693,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2016,"March",6.7,"Brassica napus"
-"GF01012785S",-117.086,46.779,789,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012786S",-117.083,46.7815,790,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012796S",-117.085,46.7796,792,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum"
-"GF03008000S",-118.406,46.9102,528,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2016,"March",7.2,"Brassica napus"
-"GF01012788S",-117.082,46.7831,793,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03008001S",-119.763,48.0034,867,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2016,"March",6.5,"Triticum aestivum"
-"GF01012789S",-117.083,46.7815,790,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012803S",-117.082,46.7831,793,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012790S",-117.083,46.7822,797,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012787S",-117.084,46.7807,783,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012792S",-117.085,46.7804,785,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012793S",-117.085,46.7796,792,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum"
-"GF03007997S",-118.48,47.8407,735,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2015,"November",6.8,"Triticum aestivum"
-"GF01012794S",-117.083,46.7822,797,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03004720S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012795S",-117.085,46.7796,792,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum"
-"GF01012799S",-117.083,46.7815,790,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012798S",-117.083,46.7822,797,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012759S",-117.082,46.7831,793,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012800S",-117.085,46.7804,785,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03004811S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","rhizosphere soil","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012801S",-117.082,46.7831,793,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012802S",-117.085,46.7804,785,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012804S",-117.085,46.7796,792,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum"
-"GF03008004S",-118.48,47.8373,746,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2016,"March",6.6,"Brassica napus"
-"GF01012806S",-117.083,46.7815,790,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012805S",-117.085,46.7796,792,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum"
-"GF03004747S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","soil","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012807S",-117.085,46.7804,785,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03008006S",-119.522,47.8355,698,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2016,"March",6.6,"Triticum aestivum"
-"GF03008007S",-118.499,47.9082,519,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2015,"November",6.6,"Brassica napus"
-"GF03008005S",-119.522,47.8394,693,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2016,"March",6.7,"Brassica napus"
-"GF01012808S",-117.083,46.7815,790,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012809S",-117.086,46.7792,791,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF05021449S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa"
-"GF01012511S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF01012510S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2013,"NA_",6,"Triticum aestivum"
-"GF01012512S",-117.179,46.785,773,"cropland","cropland biome","soil","USA",2013,"NA_",6.2,"Triticum aestivum"
-"GF05001341V",-124.6,47.88,67,"forest"," temperate coniferous forest biome","soil","USA,WA,La Push",2014,"October",5.2,"NA_"
-"GF03008014S",-118.406,46.9102,528,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2016,"March",7.2,"Triticum aestivum"
-"GF03008015S",-119.763,48.0013,861,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2015,"November",6.4,"Brassica napus"
-"GF03008016S",-119.522,47.8355,698,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2015,"November",6.6,"Triticum aestivum"
-"GF03004725S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","soil","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012810S",-117.086,46.779,789,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF01012812S",-117.086,46.779,789,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03004727S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF03008017S",-118.48,47.8407,735,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2016,"March",6.8,"Triticum aestivum"
-"GF03008019S",-119.763,48.0013,861,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2015,"November",6.4,"Brassica napus"
-"GF03008020S",-118.499,47.9082,519,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2016,"March",6.6,"Brassica napus"
-"GF03008021S",-119.755,47.958,800,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2015,"November",6.5,"Triticum aestivum"
-"GF03008011S",-119.757,47.9514,791,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2015,"November",6.6,"Brassica napus"
-"GF03008009S",-119.757,47.9514,791,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2016,"March",6.6,"Brassica napus"
-"GF03007993S",-119.763,48.0034,867,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2015,"November",6.5,"Triticum aestivum"
-"GF01012813S",-117.083,46.7815,790,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03004777S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","root","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF03004782S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF03008022S",-118.48,47.8373,746,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2015,"November",6.6,"Brassica napus"
-"GF03008023S",-119.522,47.8394,693,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2015,"November",6.7,"Brassica napus"
-"GF01012527S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF01012519S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF01012520S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2013,"NA_",6,"Triticum aestivum"
-"GF05021497S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF01012518S",-117.179,46.785,773,"cropland","cropland biome","soil","USA",2013,"NA_",6.2,"Triticum aestivum"
-"GF05021473S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF05021475S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF05021505S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF01012526S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF01012521S",-117.179,46.785,773,"cropland","cropland biome","soil","USA",2013,"NA_",6.2,"Triticum aestivum"
-"GF01012517S",-117.179,46.785,773,"cropland","cropland biome","soil","USA",2013,"NA_",6.2,"Triticum aestivum"
-"GF05021495S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa"
-"GF01012529S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF05021477S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF01012530S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2013,"NA_",6,"Triticum aestivum"
-"GF03008024S",-118.406,46.9102,528,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2015,"November",7.2,"Triticum aestivum"
-"GF03004800S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"July",6.5,"Camassia quamash"
-"GF05021502S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis"
-"GF03008025S",-118.406,46.9102,528,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2016,"March",7.2,"Triticum aestivum"
-"GF05021471S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis"
-"GF03004810S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012814S",-117.085,46.7804,785,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF03008026S",-119.522,47.8355,698,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2016,"March",6.6,"Triticum aestivum"
-"GF03008027S",-119.757,47.9514,791,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2016,"March",6.6,"Brassica napus"
-"GF03008003S",-118.502,47.9046,506,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2015,"November",6.5,"Triticum aestivum"
-"GF01012533S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2013,"NA_",6,"Triticum aestivum"
-"GF05021462S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF03004819S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","root","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF05021479S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa"
-"GF03004830S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"July",6.5,"Camassia quamash"
-"GF03004827S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF03004823S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"July",6.5,"Camassia quamash"
-"GF03004790S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF03004831S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"July",6.5,"Camassia quamash"
-"GF03004833S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF03008010S",-119.755,47.958,800,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2016,"March",6.5,"Triticum aestivum"
-"GF01012535S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2013,"NA_",6,"Triticum aestivum"
-"GF01012536S",-117.179,46.785,773,"cropland","cropland biome","soil","USA",2013,"NA_",6.2,"Triticum aestivum"
-"GF03008013S",-118.499,47.9082,519,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2016,"March",6.6,"Brassica napus"
-"GF01012538S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2013,"NA_",6,"Triticum aestivum"
-"GF05021503S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF01012539S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF01012534S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2013,"NA_",6,"Triticum aestivum"
-"GF05021474S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF03008030S",-119.763,48.0013,861,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2016,"March",6.4,"Brassica napus"
-"GF01012509S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2013,"NA_",6,"Triticum aestivum"
-"GF01012540S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF03008029S",-118.48,47.8373,746,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2016,"March",6.6,"Brassica napus"
-"GF01012541S",-117.179,46.785,773,"cropland","cropland biome","soil","USA",2013,"NA_",6.2,"Triticum aestivum"
-"GF03008032S",-118.406,46.9102,528,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2015,"November",7.2,"Brassica napus"
-"GF05021450S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF05021444S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF03008008S",-118.48,47.8407,735,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2016,"March",6.8,"Triticum aestivum"
-"GF05021457S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF05021460S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF03008031S",-119.755,47.958,800,"cropland","plantation","rhizosphere soil","Douglas County, east-central Washington",2016,"March",6.5,"Triticum aestivum"
-"GF05021455S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF01012545S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2013,"NA_",6,"Triticum aestivum"
-"GF01012513S",-117.179,46.785,773,"cropland","cropland biome","soil","USA",2013,"NA_",6.2,"Triticum aestivum"
-"GF03008028S",-118.406,46.9102,528,"cropland","plantation","rhizosphere soil","Adams County, east-central Washington",2015,"November",7.2,"Brassica napus"
-"GF01012547S",-117.179,46.785,773,"cropland","cropland biome","soil","USA",2013,"NA_",6.2,"Triticum aestivum"
-"GF01012548S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2013,"NA_",6,"Triticum aestivum"
-"GF03004852S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","soil","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF05021442S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF03004854S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF05021453S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF05021489S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF03004856S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF05021470S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis"
-"GF05021493S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF01012552S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2013,"NA_",6,"Triticum aestivum"
-"GF05021443S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF05021452S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF01012550S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF05021448S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05021480S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa"
-"GF05021484S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF05021478S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05021486S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis"
-"GF01012551S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF05021464S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa"
-"GF05021437S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF05021439S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05021447S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa"
-"GF05021498S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF05021445S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF05021494S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa"
-"GF03004867S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","root","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF05021485S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis"
-"GF05021504S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF05021488S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF05021465S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa"
-"GF05021483S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF03004868S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF05021466S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa"
-"GF05021472S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis"
-"GF05021468S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF05021482S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF05021469S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF05021467S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF05021496S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa"
-"GF05021435S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05021492S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05021458S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05021481S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa"
-"GF05021454S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis"
-"GF05021490S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF05021500S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis"
-"GF05021499S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF05021487S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis"
-"GF05021446S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF05021476S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05021438S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05021459S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05021463S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05021441S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05021451S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata"
-"GF05021440S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea"
-"GF05021461S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05021456S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis"
-"GF05021501S",-120.896,48.1706,1981,"desert","montane desert biome","rhizosphere soil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis"
-"GF03004877S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF01012553S",-117.114,46.7583,793,"cropland","cropland biome","soil","USA",2012,"NA_",6,"Triticum aestivum"
-"GF05021436S",-120.896,48.1706,1981,"desert","montane desert biome","topsoil","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_"
-"GF05017303S",-121.807,47.5302,128,"woodland","woodland biome","shoot","Washington",2013,"October",5.4,"Populus trichocarpa"
-"GF03004879S",-117.25,46.79,685,"wetland","anthropogenic terrestrial biome","shoot","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash"
-"GF05017226S",-122.898,47.686,3,"woodland","woodland biome","shoot","Washington",2013,"October",5.4,"Populus trichocarpa"
-"GF01012815S",-117.084,46.7807,783,"cropland","cropland biome","soil","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum"
-"GF05017355S",-120.51,46.919,434,"woodland","woodland biome","shoot","Washington",2013,"October",7,"Populus trichocarpa"
-"GF05017231S",-122.898,47.686,3,"woodland","woodland biome","shoot","Washington",2013,"October",5.4,"Populus trichocarpa"
+"","Sample.Type","Elevation","Biome","Biome.Detail","Location","Year.of.Sampling","Month.of.Sampling","pH","Dominant.Plants","Longitude","Latitude"
+"GF01012720S","soil",791,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.7792
+"GF01012721S","soil",790,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7815
+"GF03007985S","rhizosphere soil",735,"cropland","plantation","Adams County, east-central Washington",2015,"November",6.8,"Triticum aestivum",-118.48,47.8407
+"GF03007986S","rhizosphere soil",506,"cropland","plantation","Adams County, east-central Washington",2016,"March",6.5,"Triticum aestivum",-118.502,47.9046
+"GF01012722S","soil",789,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.779
+"GF01012723S","soil",797,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7822
+"GF01012724S","soil",785,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.085,46.7804
+"GF01012725S","soil",783,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.084,46.7807
+"GF01012726S","soil",783,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.084,46.7807
+"GF01012727S","soil",789,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.779
+"GF01012728S","soil",785,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.085,46.7804
+"GF01012797S","soil",797,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7822
+"GF03007987S","rhizosphere soil",698,"cropland","plantation","Douglas County, east-central Washington",2015,"November",6.6,"Triticum aestivum",-119.522,47.8355
+"GF03004641S","rhizosphere soil",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012729S","soil",792,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum",-117.085,46.7796
+"GF01012731S","soil",783,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.084,46.7807
+"GF01012732S","soil",793,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.082,46.7831
+"GF01012733S","soil",789,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.779
+"GF01012734S","soil",797,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7822
+"GF01012735S","soil",793,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.082,46.7831
+"GF01012736S","soil",792,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum",-117.085,46.7796
+"GF03004645S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012737S","soil",792,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum",-117.085,46.7796
+"GF01012738S","soil",793,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.082,46.7831
+"GF01012739S","soil",791,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.7792
+"GF01012740S","soil",790,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7815
+"GF01012747S","soil",789,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.779
+"GF03007989S","rhizosphere soil",867,"cropland","plantation","Douglas County, east-central Washington",2016,"March",6.5,"Triticum aestivum",-119.763,48.0034
+"GF01012756S","soil",783,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.084,46.7807
+"GF01012504S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF03007990S","rhizosphere soil",791,"cropland","plantation","Douglas County, east-central Washington",2015,"November",6.6,"Brassica napus",-119.757,47.9514
+"GF03004649S","rhizosphere soil",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012743S","soil",789,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.779
+"GF01012748S","soil",783,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.084,46.7807
+"GF01012749S","soil",789,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.779
+"GF01012755S","soil",797,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7822
+"GF01012753S","soil",791,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.7792
+"GF01012752S","soil",791,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.7792
+"GF01012751S","soil",791,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.7792
+"GF01012744S","soil",797,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7822
+"GF01012750S","soil",785,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.085,46.7804
+"GF01012754S","soil",793,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.082,46.7831
+"GF01012730S","soil",789,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.779
+"GF01012757S","soil",797,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7822
+"GF01012758S","soil",785,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.085,46.7804
+"GF03007991S","rhizosphere soil",528,"cropland","plantation","Adams County, east-central Washington",2015,"November",7.2,"Triticum aestivum",-118.406,46.9102
+"GF03008012S","rhizosphere soil",506,"cropland","plantation","Adams County, east-central Washington",2016,"March",6.5,"Triticum aestivum",-118.502,47.9046
+"GF03008002S","rhizosphere soil",746,"cropland","plantation","Adams County, east-central Washington",2015,"November",6.6,"Brassica napus",-118.48,47.8373
+"GF01012760S","soil",793,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.082,46.7831
+"GF01012779S","soil",791,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.7792
+"GF03007988S","rhizosphere soil",519,"cropland","plantation","Adams County, east-central Washington",2015,"November",6.6,"Brassica napus",-118.499,47.9082
+"GF01012761S","soil",790,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7815
+"GF05021491S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF03004640S","rhizosphere soil",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012780S","soil",790,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7815
+"GF01012762S","soil",792,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum",-117.085,46.7796
+"GF01012741S","soil",797,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7822
+"GF01012763S","soil",783,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.084,46.7807
+"GF03007992S","rhizosphere soil",800,"cropland","plantation","Douglas County, east-central Washington",2015,"November",6.5,"Triticum aestivum",-119.755,47.958
+"GF01012505S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF01012742S","soil",789,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.779
+"GF01012765S","soil",797,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7822
+"GF01012506S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF01012766S","soil",783,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.084,46.7807
+"GF03004667S","rhizosphere soil",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012767S","soil",791,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.7792
+"GF01012791S","soil",792,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum",-117.085,46.7796
+"GF01012768S","soil",791,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.7792
+"GF01012770S","soil",790,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7815
+"GF01012771S","soil",783,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.084,46.7807
+"GF03007994S","rhizosphere soil",861,"cropland","plantation","Douglas County, east-central Washington",2016,"March",6.4,"Brassica napus",-119.763,48.0013
+"GF01012773S","soil",793,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.082,46.7831
+"GF01012772S","soil",793,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.082,46.7831
+"GF01012515S","soil",793,"cropland","cropland biome","USA",2013,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF01012811S","soil",785,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.085,46.7804
+"GF01012774S","soil",792,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum",-117.085,46.7796
+"GF05001343V","soil",359,"forest"," temperate coniferous forest biome","USA,WA,Cougar Mt. Park",2014,"October",5.2,"NA_",-122.11,47.53
+"GF03004687S","root",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF03004689S","root",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012775S","soil",797,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7822
+"GF01012776S","soil",785,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.085,46.7804
+"GF03007995S","rhizosphere soil",867,"cropland","plantation","Douglas County, east-central Washington",2015,"November",6.5,"Triticum aestivum",-119.763,48.0034
+"GF01012777S","soil",791,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.7792
+"GF01012769S","soil",791,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.7792
+"GF03007996S","rhizosphere soil",528,"cropland","plantation","Adams County, east-central Washington",2016,"March",7.2,"Brassica napus",-118.406,46.9102
+"GF03004698S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012778S","soil",790,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7815
+"GF01012745S","soil",789,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.779
+"GF01012781S","soil",783,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.084,46.7807
+"GF01012746S","soil",783,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.084,46.7807
+"GF01012782S","soil",791,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.7792
+"GF03007998S","rhizosphere soil",693,"cropland","plantation","Douglas County, east-central Washington",2015,"November",6.7,"Brassica napus",-119.522,47.8394
+"GF03007999S","rhizosphere soil",506,"cropland","plantation","Adams County, east-central Washington",2015,"November",6.5,"Triticum aestivum",-118.502,47.9046
+"GF01012764S","soil",793,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.082,46.7831
+"GF01012783S","soil",792,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum",-117.085,46.7796
+"GF03004663S","soil",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012784S","soil",785,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.085,46.7804
+"GF03008018S","rhizosphere soil",693,"cropland","plantation","Douglas County, east-central Washington",2016,"March",6.7,"Brassica napus",-119.522,47.8394
+"GF01012785S","soil",789,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.779
+"GF01012786S","soil",790,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7815
+"GF01012796S","soil",792,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum",-117.085,46.7796
+"GF03008000S","rhizosphere soil",528,"cropland","plantation","Adams County, east-central Washington",2016,"March",7.2,"Brassica napus",-118.406,46.9102
+"GF01012788S","soil",793,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.082,46.7831
+"GF03008001S","rhizosphere soil",867,"cropland","plantation","Douglas County, east-central Washington",2016,"March",6.5,"Triticum aestivum",-119.763,48.0034
+"GF01012789S","soil",790,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7815
+"GF01012803S","soil",793,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.082,46.7831
+"GF01012790S","soil",797,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7822
+"GF01012787S","soil",783,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.084,46.7807
+"GF01012792S","soil",785,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.085,46.7804
+"GF01012793S","soil",792,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum",-117.085,46.7796
+"GF03007997S","rhizosphere soil",735,"cropland","plantation","Adams County, east-central Washington",2015,"November",6.8,"Triticum aestivum",-118.48,47.8407
+"GF01012794S","soil",797,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7822
+"GF03004720S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012795S","soil",792,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum",-117.085,46.7796
+"GF01012799S","soil",790,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7815
+"GF01012798S","soil",797,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7822
+"GF01012759S","soil",793,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.082,46.7831
+"GF01012800S","soil",785,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.085,46.7804
+"GF03004811S","rhizosphere soil",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012801S","soil",793,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.082,46.7831
+"GF01012802S","soil",785,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.085,46.7804
+"GF01012804S","soil",792,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum",-117.085,46.7796
+"GF03008004S","rhizosphere soil",746,"cropland","plantation","Adams County, east-central Washington",2016,"March",6.6,"Brassica napus",-118.48,47.8373
+"GF01012806S","soil",790,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7815
+"GF01012805S","soil",792,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6,"Triticum aestivum",-117.085,46.7796
+"GF03004747S","soil",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012807S","soil",785,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.085,46.7804
+"GF03008006S","rhizosphere soil",698,"cropland","plantation","Douglas County, east-central Washington",2016,"March",6.6,"Triticum aestivum",-119.522,47.8355
+"GF03008007S","rhizosphere soil",519,"cropland","plantation","Adams County, east-central Washington",2015,"November",6.6,"Brassica napus",-118.499,47.9082
+"GF03008005S","rhizosphere soil",693,"cropland","plantation","Douglas County, east-central Washington",2016,"March",6.7,"Brassica napus",-119.522,47.8394
+"GF01012808S","soil",790,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7815
+"GF01012809S","soil",791,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.7792
+"GF05021449S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa",-120.896,48.1706
+"GF01012511S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF01012510S","soil",793,"cropland","cropland biome","USA",2013,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF01012512S","soil",773,"cropland","cropland biome","USA",2013,"NA_",6.2,"Triticum aestivum",-117.179,46.785
+"GF05001341V","soil",67,"forest"," temperate coniferous forest biome","USA,WA,La Push",2014,"October",5.2,"NA_",-124.6,47.88
+"GF03008014S","rhizosphere soil",528,"cropland","plantation","Adams County, east-central Washington",2016,"March",7.2,"Triticum aestivum",-118.406,46.9102
+"GF03008015S","rhizosphere soil",861,"cropland","plantation","Douglas County, east-central Washington",2015,"November",6.4,"Brassica napus",-119.763,48.0013
+"GF03008016S","rhizosphere soil",698,"cropland","plantation","Douglas County, east-central Washington",2015,"November",6.6,"Triticum aestivum",-119.522,47.8355
+"GF03004725S","soil",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012810S","soil",789,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.779
+"GF01012812S","soil",789,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.086,46.779
+"GF03004727S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF03008017S","rhizosphere soil",735,"cropland","plantation","Adams County, east-central Washington",2016,"March",6.8,"Triticum aestivum",-118.48,47.8407
+"GF03008019S","rhizosphere soil",861,"cropland","plantation","Douglas County, east-central Washington",2015,"November",6.4,"Brassica napus",-119.763,48.0013
+"GF03008020S","rhizosphere soil",519,"cropland","plantation","Adams County, east-central Washington",2016,"March",6.6,"Brassica napus",-118.499,47.9082
+"GF03008021S","rhizosphere soil",800,"cropland","plantation","Douglas County, east-central Washington",2015,"November",6.5,"Triticum aestivum",-119.755,47.958
+"GF03008011S","rhizosphere soil",791,"cropland","plantation","Douglas County, east-central Washington",2015,"November",6.6,"Brassica napus",-119.757,47.9514
+"GF03008009S","rhizosphere soil",791,"cropland","plantation","Douglas County, east-central Washington",2016,"March",6.6,"Brassica napus",-119.757,47.9514
+"GF03007993S","rhizosphere soil",867,"cropland","plantation","Douglas County, east-central Washington",2015,"November",6.5,"Triticum aestivum",-119.763,48.0034
+"GF01012813S","soil",790,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.083,46.7815
+"GF03004777S","root",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF03004782S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF03008022S","rhizosphere soil",746,"cropland","plantation","Adams County, east-central Washington",2015,"November",6.6,"Brassica napus",-118.48,47.8373
+"GF03008023S","rhizosphere soil",693,"cropland","plantation","Douglas County, east-central Washington",2015,"November",6.7,"Brassica napus",-119.522,47.8394
+"GF01012527S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF01012519S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF01012520S","soil",793,"cropland","cropland biome","USA",2013,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF05021497S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF01012518S","soil",773,"cropland","cropland biome","USA",2013,"NA_",6.2,"Triticum aestivum",-117.179,46.785
+"GF05021473S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF05021475S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF05021505S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF01012526S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF01012521S","soil",773,"cropland","cropland biome","USA",2013,"NA_",6.2,"Triticum aestivum",-117.179,46.785
+"GF01012517S","soil",773,"cropland","cropland biome","USA",2013,"NA_",6.2,"Triticum aestivum",-117.179,46.785
+"GF05021495S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa",-120.896,48.1706
+"GF01012529S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF05021477S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF01012530S","soil",793,"cropland","cropland biome","USA",2013,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF03008024S","rhizosphere soil",528,"cropland","plantation","Adams County, east-central Washington",2015,"November",7.2,"Triticum aestivum",-118.406,46.9102
+"GF03004800S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"July",6.5,"Camassia quamash",-117.25,46.79
+"GF05021502S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis",-120.896,48.1706
+"GF03008025S","rhizosphere soil",528,"cropland","plantation","Adams County, east-central Washington",2016,"March",7.2,"Triticum aestivum",-118.406,46.9102
+"GF05021471S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis",-120.896,48.1706
+"GF03004810S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012814S","soil",785,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.085,46.7804
+"GF03008026S","rhizosphere soil",698,"cropland","plantation","Douglas County, east-central Washington",2016,"March",6.6,"Triticum aestivum",-119.522,47.8355
+"GF03008027S","rhizosphere soil",791,"cropland","plantation","Douglas County, east-central Washington",2016,"March",6.6,"Brassica napus",-119.757,47.9514
+"GF03008003S","rhizosphere soil",506,"cropland","plantation","Adams County, east-central Washington",2015,"November",6.5,"Triticum aestivum",-118.502,47.9046
+"GF01012533S","soil",793,"cropland","cropland biome","USA",2013,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF05021462S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF03004819S","root",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF05021479S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa",-120.896,48.1706
+"GF03004830S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"July",6.5,"Camassia quamash",-117.25,46.79
+"GF03004827S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF03004823S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"July",6.5,"Camassia quamash",-117.25,46.79
+"GF03004790S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF03004831S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"July",6.5,"Camassia quamash",-117.25,46.79
+"GF03004833S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF03008010S","rhizosphere soil",800,"cropland","plantation","Douglas County, east-central Washington",2016,"March",6.5,"Triticum aestivum",-119.755,47.958
+"GF01012535S","soil",793,"cropland","cropland biome","USA",2013,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF01012536S","soil",773,"cropland","cropland biome","USA",2013,"NA_",6.2,"Triticum aestivum",-117.179,46.785
+"GF03008013S","rhizosphere soil",519,"cropland","plantation","Adams County, east-central Washington",2016,"March",6.6,"Brassica napus",-118.499,47.9082
+"GF01012538S","soil",793,"cropland","cropland biome","USA",2013,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF05021503S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF01012539S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF01012534S","soil",793,"cropland","cropland biome","USA",2013,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF05021474S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF03008030S","rhizosphere soil",861,"cropland","plantation","Douglas County, east-central Washington",2016,"March",6.4,"Brassica napus",-119.763,48.0013
+"GF01012509S","soil",793,"cropland","cropland biome","USA",2013,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF01012540S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF03008029S","rhizosphere soil",746,"cropland","plantation","Adams County, east-central Washington",2016,"March",6.6,"Brassica napus",-118.48,47.8373
+"GF01012541S","soil",773,"cropland","cropland biome","USA",2013,"NA_",6.2,"Triticum aestivum",-117.179,46.785
+"GF03008032S","rhizosphere soil",528,"cropland","plantation","Adams County, east-central Washington",2015,"November",7.2,"Brassica napus",-118.406,46.9102
+"GF05021450S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF05021444S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF03008008S","rhizosphere soil",735,"cropland","plantation","Adams County, east-central Washington",2016,"March",6.8,"Triticum aestivum",-118.48,47.8407
+"GF05021457S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF05021460S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF03008031S","rhizosphere soil",800,"cropland","plantation","Douglas County, east-central Washington",2016,"March",6.5,"Triticum aestivum",-119.755,47.958
+"GF05021455S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF01012545S","soil",793,"cropland","cropland biome","USA",2013,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF01012513S","soil",773,"cropland","cropland biome","USA",2013,"NA_",6.2,"Triticum aestivum",-117.179,46.785
+"GF03008028S","rhizosphere soil",528,"cropland","plantation","Adams County, east-central Washington",2015,"November",7.2,"Brassica napus",-118.406,46.9102
+"GF01012547S","soil",773,"cropland","cropland biome","USA",2013,"NA_",6.2,"Triticum aestivum",-117.179,46.785
+"GF01012548S","soil",793,"cropland","cropland biome","USA",2013,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF03004852S","soil",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF05021442S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF03004854S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF05021453S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF05021489S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF03004856S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF05021470S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis",-120.896,48.1706
+"GF05021493S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF01012552S","soil",793,"cropland","cropland biome","USA",2013,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF05021443S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF05021452S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF01012550S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF05021448S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05021480S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa",-120.896,48.1706
+"GF05021484S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF05021478S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05021486S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis",-120.896,48.1706
+"GF01012551S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF05021464S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa",-120.896,48.1706
+"GF05021437S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF05021439S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05021447S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa",-120.896,48.1706
+"GF05021498S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF05021445S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF05021494S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa",-120.896,48.1706
+"GF03004867S","root",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF05021485S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis",-120.896,48.1706
+"GF05021504S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF05021488S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF05021465S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa",-120.896,48.1706
+"GF05021483S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF03004868S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF05021466S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa",-120.896,48.1706
+"GF05021472S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis",-120.896,48.1706
+"GF05021468S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF05021482S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF05021469S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF05021467S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF05021496S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa",-120.896,48.1706
+"GF05021435S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05021492S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05021458S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05021481S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Abies lasiocarpa",-120.896,48.1706
+"GF05021454S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis",-120.896,48.1706
+"GF05021490S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF05021500S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis",-120.896,48.1706
+"GF05021499S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF05021487S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis",-120.896,48.1706
+"GF05021446S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF05021476S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05021438S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05021459S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05021463S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05021441S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05021451S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Luetkia pectinata",-120.896,48.1706
+"GF05021440S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Saxifraga ferruginea",-120.896,48.1706
+"GF05021461S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05021456S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis",-120.896,48.1706
+"GF05021501S","rhizosphere soil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"Phyllodoce empetriformis",-120.896,48.1706
+"GF03004877S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF01012553S","soil",793,"cropland","cropland biome","USA",2012,"NA_",6,"Triticum aestivum",-117.114,46.7583
+"GF05021436S","topsoil",1981,"desert","montane desert biome","Lyman Glacier, Wenatchee National Forest, North Cascade Mountain",2009,"September",NA,"NA_",-120.896,48.1706
+"GF05017303S","shoot",128,"woodland","woodland biome","Washington",2013,"October",5.4,"Populus trichocarpa",-121.807,47.5302
+"GF03004879S","shoot",685,"wetland","anthropogenic terrestrial biome","Albion, Whitman County, Washington",2016,"May",6.5,"Camassia quamash",-117.25,46.79
+"GF05017226S","shoot",3,"woodland","woodland biome","Washington",2013,"October",5.4,"Populus trichocarpa",-122.898,47.686
+"GF01012815S","soil",783,"cropland","cropland biome","Washington State University Cook Agronomy Farm, Washington, USA",2016,"April",6.1,"Triticum aestivum",-117.084,46.7807
+"GF05017355S","shoot",434,"woodland","woodland biome","Washington",2013,"October",7,"Populus trichocarpa",-120.51,46.919
+"GF05017231S","shoot",3,"woodland","woodland biome","Washington",2013,"October",5.4,"Populus trichocarpa",-122.898,47.686
